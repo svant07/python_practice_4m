@@ -5,5 +5,4 @@ def divide(first, second):
         res = 'Ошибка'
     else:
         res = first//second
-
     return res

@@ -5,6 +5,5 @@ def divide(first, second):
         res = math.inf
     else:
         res = first//second
-
     return res
 
